@@ -2,7 +2,7 @@
 
 This is where I display my completed Github projects. See it in action [here](https://gael.cc/ "here").
 
-![Screenshot](https://raw.githubusercontent.com/avigael/portfolio/screenshots/screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/avigael/portfolio/main/screenshots/screenshot.png "Screenshot")
 
 ### Running Locally
 
