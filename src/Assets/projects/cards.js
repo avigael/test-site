@@ -4,8 +4,8 @@ export const cards = [
       "https://raw.githubusercontent.com/avigael/assets/main/images/projects/1.png",
     title: "DialogFlow Web Shop",
     description:
-      "Shopping website with DialogFlow assistant. Navigate, find, and purchase items using only DialogFlow. Back-end written in Python.",
-    tags: ["React", "Javascript", "DialogFlow", "Full Stack"],
+      "A shopping website with a DialogFlow assistant. Navigate, search for, and purchase items using only DialogFlow. Back-end written in Python.",
+    tags: ["React", "Javascript", "DialogFlow", "Full Stack", "Flask API"],
     link: "https://github.com/avigael/dialogflow-shopping-site",
   },
   {
@@ -13,8 +13,8 @@ export const cards = [
       "https://raw.githubusercontent.com/avigael/assets/main/images/projects/2.png",
     title: "Fitness App",
     description:
-      "Simple Fitness App Demo written with React Native. Allows user to create an account and set and track activity goals.",
-    tags: ["React Native", "Javascript", "Full Stack"],
+      "Simple Fitness App Demo written with React Native. Allows user to create an account, set activity goals, and record their progress.",
+    tags: ["React Native", "Javascript", "Full Stack", "Flask API"],
     link: "https://github.com/avigael/react-native-fitness-app",
   },
   {
@@ -22,7 +22,7 @@ export const cards = [
       "https://raw.githubusercontent.com/avigael/assets/main/images/projects/3.png",
     title: "Fitness & Shopping REST API",
     description:
-      "A simple REST example using Python. This API is used in to separate applications I made which include a Fitness App and a Shopping site with DialogFlow integration.",
+      "A simple REST API written in Python. This API is used in two separate applications I made which include a Fitness App and a Shopping site with DialogFlow integration.",
     tags: ["Flask", "Python", "REST", "Back-End"],
     link: "https://github.com/avigael/fitness-shopping-rest",
   },
